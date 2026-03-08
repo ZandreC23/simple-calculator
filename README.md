@@ -14,3 +14,5 @@ A command-line calculator built with Python that evaluates mathematical expressi
 3. Run: `python calculator.py`
 
 ## Usage Examples
+## Screenshot
+![Calculator Demo](image.png)
